@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Plan B</string>
+    <string name="username">Email</string>
+
+    <string name="password">Password</string>
+
+    <string name="name">Name</string>
+
+    <string name="country">Country</string>
+
+    <string name="institute">Institute</string>
+
+</resources>
