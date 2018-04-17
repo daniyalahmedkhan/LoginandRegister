@@ -22,6 +22,10 @@
         <activity android:name=".Activities.RegisterActivity"
             android:theme="@style/AppTheme.NoActionBar"
             ></activity>
+
+        <activity android:name=".Activities.HomeActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            ></activity>
     </application>
 
 </manifest>
